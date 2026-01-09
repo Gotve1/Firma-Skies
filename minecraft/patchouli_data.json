@@ -1,0 +1,15 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "tfc:field_guide": {
+      "viewedEntries": [
+        "tfc:the_world/ores_and_minerals",
+        "tfc:firmalife/irrigation",
+        "tfc:mechanics/chisel"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

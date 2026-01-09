@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "tfc:metal/double_ingot/red_steel"
+    },
+    "I": {
+      "item": "create:andesite_bars"
+    }
+  },
+  "pattern": [
+    " I ",
+    "IAI",
+    " I "
+  ],
+  "result": {
+    "item": "create:empty_blaze_burner"
+  },
+  "show_notification": true
+}

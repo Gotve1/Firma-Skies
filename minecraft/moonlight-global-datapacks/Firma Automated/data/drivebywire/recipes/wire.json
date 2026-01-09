@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "create:andesite_alloy"
+    },
+    "I": {
+      "item": "vs_sails:rope"
+    }
+  },
+  "pattern": [
+    "  #",
+    " I ",
+    "#  "
+  ],
+  "result": {
+    "item": "drivebywire:wire"
+  }
+}
