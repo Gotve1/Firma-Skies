@@ -1,9 +1,10 @@
 filename = 'tfcambiental-1.20.1-3.4.0.jar'
 name = 'TFC Ambiental: Second edition'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-3.4.0'
 
 [download]
 hash = '1ac37c9c4777a596a2418ff31254e59e8421793329235a6f596271d0f634858d4ba11f2e062d8e6f3dd87388b9ce7c197f4eea438eed1a0afad7f51805c22c7a'
