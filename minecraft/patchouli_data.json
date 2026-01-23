@@ -1,15 +1,37 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": false,
+  "clickedVisualize": true,
   "bookData": {
     "tfc:field_guide": {
       "viewedEntries": [
         "tfc:the_world/ores_and_minerals",
         "tfc:firmalife/irrigation",
         "tfc:mechanics/chisel",
-        "tfc:mechanics/mechanical_power"
+        "tfc:mechanics/mechanical_power",
+        "tfc:mechanics/crankshaft",
+        "tfc:mechanics/charcoal_pit",
+        "tfc:mechanics/bellows",
+        "tfc:mechanics/pumps",
+        "tfc:getting_started/pottery",
+        "tfc:firmalife/climate_station",
+        "tfc:the_world/wild_crops",
+        "tfc:mechanics/gems",
+        "tfc:mechanics/crucible",
+        "tfc:getting_started/pit_kiln",
+        "tfc:mechanics/charcoal_forge",
+        "tfc:mechanics/blast_furnace",
+        "tfc:getting_started/firepit",
+        "tfc:getting_started/size_and_weight",
+        "tfc:firmalife/planters",
+        "tfc:firmalife/ovens",
+        "tfc:mechanics/fire_clay"
       ],
-      "bookmarks": [],
+      "bookmarks": [
+        {
+          "entry": "tfc:mechanics/blast_furnace",
+          "page": 3
+        }
+      ],
       "completedManualQuests": []
     }
   }
