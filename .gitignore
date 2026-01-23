@@ -7,4 +7,6 @@ minecraft/schematics/
 minecraft/screenshots/
 minecraft/config/jei/
 minecraft/patchouli_data.json
+minecraft/servers.dat
+minecraft/servers.dat_old
 .idea/
